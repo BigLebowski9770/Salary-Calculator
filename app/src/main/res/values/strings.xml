@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Salary-Calculator</string>
+    <string name="percentage_of_revenue">Процент от выручки</string>
+    <string name="payment_by_the_hour">Оплата по часам</string>
+    <string name="hint_for_clock_sum_field">Введите сумму сколько получаете за час</string>
+    <string name="hint_for_hour_count">Введите количество часов</string>
+    <string name="hint_input_sum">Введите сумму</string>
+    <string name="hint_input_percent">Введите процент от прибыли</string>
 </resources>
